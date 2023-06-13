@@ -1,5 +1,5 @@
-https://kargosoft-com-tr.webflow.io/ -O /home/ubuntu/clone/sites/kargosoft.com.tr/website_clone -v -%! -c1 -%c1 -%F "" -%l "en, en, *"
-File generated automatically on Tue, 13 Jun 2023 15:18:45, do NOT edit
+https://kargosoft-com-tr.webflow.io/ -O /home/ubuntu/clone/sites/kargosoft.com.tr/website_clone -v -%! -c1 -%c1 -F "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:15.0) Gecko/20100101 Firefox/15.0.1" -%F "" -%l "en, en, *"
+File generated automatically on Tue, 13 Jun 2023 15:24:47, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
