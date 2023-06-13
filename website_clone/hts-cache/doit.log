@@ -1,5 +1,5 @@
 https://kargosoft-com-tr.webflow.io/ -O /home/ubuntu/clone/sites/kargosoft.com.tr/website_clone -v -%! -c1 -%F "" -%l "en, en, *"
-File generated automatically on Tue, 13 Jun 2023 14:18:45, do NOT edit
+File generated automatically on Tue, 13 Jun 2023 14:24:45, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
