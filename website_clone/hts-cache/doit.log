@@ -1,5 +1,5 @@
 https://kargosoft-com-tr.webflow.io/ -O /home/ubuntu/clone/sites/kargosoft.com.tr/website_clone -v -%! -c1 -%c1 -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
-File generated automatically on Wed, 19 Jul 2023 22:49:02, do NOT edit
+File generated automatically on Wed, 19 Jul 2023 22:55:20, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
 The existing cache will be used (and modified)
